@@ -6,4 +6,4 @@ first and a test for git version control
 
 version 1
 
-![sdu](~/photo/headcap.jpg)
+![headcap](assets/headcap.jpg)
